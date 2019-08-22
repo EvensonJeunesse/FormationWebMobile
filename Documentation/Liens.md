@@ -3,7 +3,7 @@
 Vous trouverez ci-dessous des liens vers de la documentation pour pouvoir poursuivre ou appuyer votre formation.
 Si vous rencontrez des problèmes, n'hésitez à faire une petite recherche sur internet, vous n'êtes surement pas le premier à vous poser la question =). Il existe de nombreux forums et blogs qui traitent des problèmes de programmation informatique. Il existe également de nombreux tutoriels de programmation sur youtube. A vos claviers !
 
-
+--------------------------------------------------------------------------------
 
 # Sites Web
 
@@ -29,6 +29,8 @@ Si vous rencontrez des problèmes, n'hésitez à faire une petite recherche sur 
 - https://openclassrooms.com/fr/courses/993975-apprenez-a-programmer-en-vb-net/992711-introduction-au-langage-sql
 
 
+
+--------------------------------------------------------------------------------
 
 
 # Vidéos :
@@ -64,7 +66,7 @@ Si vous rencontrez des problèmes, n'hésitez à faire une petite recherche sur 
 - https://www.youtube.com/playlist?list=PLBNheBxhHLQxmCCiHGkXBAIsC1VKpZkSe
 
 
-
+--------------------------------------------------------------------------------
 
 # Liens de téléchargement :
 
