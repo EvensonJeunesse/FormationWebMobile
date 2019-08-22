@@ -7,18 +7,22 @@ Si vous rencontrez des problèmes, n'hésitez à faire une petite recherche sur 
 
 ## Sites Web
 
-# Cours HTML5 / CSS3 : ```https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3```
+# Cours HTML5 / CSS3  
+```https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3```
 
-# Cours Wordpress : ```https://openclassrooms.com/fr/courses/2622436-creez-votre-premier-site-avec-wordpress```
+# Cours Wordpress
+```https://openclassrooms.com/fr/courses/2622436-creez-votre-premier-site-avec-wordpress```
 
-# Cours Javascript :
+# Cours Javascript
 ```
 - https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript
 - https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_JavaScript
 ```
-# Cours Android Studio : ```https://openclassrooms.com/fr/courses/2023346-creez-des-applications-pour-android```
+# Cours Android Studio :
+```https://openclassrooms.com/fr/courses/2023346-creez-des-applications-pour-android```
 
-# Cours SQL : ```https://openclassrooms.com/fr/courses/993975-apprenez-a-programmer-en-vb-net/992711-introduction-au-langage-sql```
+# Cours SQL :
+```https://openclassrooms.com/fr/courses/993975-apprenez-a-programmer-en-vb-net/992711-introduction-au-langage-sql```
 
 
 
