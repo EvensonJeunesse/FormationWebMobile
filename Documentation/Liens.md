@@ -5,74 +5,74 @@ Si vous rencontrez des problèmes, n'hésitez à faire une petite recherche sur 
 
 
 
-## Sites Web
+# Sites Web
 
-# Cours HTML5 / CSS3  
+### Cours HTML5 / CSS3  
 
 - https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3
 
-# Cours Wordpress
+### Cours Wordpress
 
 - https://openclassrooms.com/fr/courses/2622436-creez-votre-premier-site-avec-wordpress
 
-# Cours Javascript
+### Cours Javascript
 
 - https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript
 - https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_JavaScript
 
-# Cours Android Studio :
+### Cours Android Studio :
 
 - https://openclassrooms.com/fr/courses/2023346-creez-des-applications-pour-android
 
-# Cours SQL :
+### Cours SQL :
 
 - https://openclassrooms.com/fr/courses/993975-apprenez-a-programmer-en-vb-net/992711-introduction-au-langage-sql
 
 
 
 
-## Vidéos :
+# Vidéos :
 
-# Cours HTML5 / CSS3 :
+### Cours HTML5 / CSS3 :
 
 - https://www.youtube.com/playlist?list=PLwLsbqvBlImHG5yeUCXJ1aqNMgUKi1NK3
 
-# Cours CSS3 :
+### Cours CSS3 :
 
 - https://www.youtube.com/playlist?list=PLjwdMgw5TTLVjTZQocrMwKicV5wsZlRpj
 
-# Cours HTML5 :
+### Cours HTML5 :
 
 - https://www.youtube.com/playlist?list=PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX
 
-# Cours Javascript :
+### Cours Javascript :
 
 - https://www.youtube.com/playlist?list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI
 - https://www.youtube.com/watch?v=XkvrHQNmigs
 
-# Cours Wordpress :
+### Cours Wordpress :
 
 - https://www.youtube.com/playlist?list=PL5BcU-_5Oa_ocJ_cyNKqhqJICMEJM9uqy
 - https://www.youtube.com/watch?v=YIhrMfMWvLE
 
-# Héberger son site web :
+### Héberger son site web :
 
 - https://www.youtube.com/watch?v=dEQ8--CqKXE&list=PLjwdMgw5TTLX_17EodZJ9w4nxV2GbAtdy
 
-# Cours Android Studio :
+### Cours Android Studio :
 
 - https://www.youtube.com/playlist?list=PLBNheBxhHLQxmCCiHGkXBAIsC1VKpZkSe
 
 
 
 
-## Liens de téléchargement :
+# Liens de téléchargement :
 
-# Sublime Text :
+### Sublime Text :
 - https://www.sublimetext.com/
-# Bootstrap :
+### Bootstrap :
 - https://getbootstrap.com/docs/3.4/
-# Wordpress :
+### Wordpress :
 - https://fr.wordpress.org/download/
-# Android Studio :
+### Android Studio :
 - https://developer.android.com/studio
