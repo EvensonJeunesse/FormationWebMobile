@@ -14,10 +14,10 @@ Si vous rencontrez des problèmes, n'hésitez à faire une petite recherche sur 
 ```https://openclassrooms.com/fr/courses/2622436-creez-votre-premier-site-avec-wordpress```
 
 # Cours Javascript
-```
+
 - https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript
 - https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_JavaScript
-```
+
 # Cours Android Studio :
 ```https://openclassrooms.com/fr/courses/2023346-creez-des-applications-pour-android```
 
@@ -36,7 +36,8 @@ Si vous rencontrez des problèmes, n'hésitez à faire une petite recherche sur 
 # Cours HTML5 : https://www.youtube.com/playlist?list=PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX
 
 # Cours Javascript :
-- https://www.youtube.com/playlist?list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI
+ https://www.youtube.com/playlist?list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI
+
 - https://www.youtube.com/watch?v=XkvrHQNmigs
 
 # Cours Wordpress :
