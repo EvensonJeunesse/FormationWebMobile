@@ -1,0 +1,36 @@
+easyphp apache config :
+
+## Virtualhost localweb
+
+Listen 127.0.0.1:80
+
+<VirtualHost 127.0.0.1>
+	DocumentRoot "G:/WinApp/EasyPHP-Devserver-17/eds-www"
+	ServerName 127.0.0.1
+	<Directory "G:/WinApp/EasyPHP-Devserver-17/eds-www">
+		Options FollowSymLinks Indexes ExecCGI
+		AllowOverride All
+		Order allow,deny
+		Allow all
+		Require all granted
+	</Directory>
+</VirtualHost>
+
+
+
+## Virtualhost externe
+
+Listen [your ip]:8080
+
+<VirtualHost [your ip]>
+	DocumentRoot "[your directory]"
+	ServerName 127.0.0.1
+	<Directory "[your directory]">
+		Options FollowSymLinks Indexes ExecCGI
+		AllowOverride All
+		Allow from all
+		Require all granted
+	</Directory>
+</VirtualHost>
+
+
