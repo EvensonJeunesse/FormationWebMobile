@@ -1,0 +1,205 @@
+
+@font-face {
+ font-family: "Roboto2";
+ src: url("Roboto Medium.ttf");
+}
+
+
+* {
+  box-sizing: border-box;
+  font-family: Roboto2;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  background-image: url("header.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Style the header */
+header {
+  background-color: #000000;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+
+/* Style the list inside the menu */
+menu ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+menu {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  background: #ccc;
+  padding: 20px;
+  margin: 0px;
+  position: sticky; /*lorsque l'on va scroll vers le bas notre nav restera en haut de l'écran */
+  top: 50px; /* !!!! important sinon le stocky n'aura aucun effet */
+}
+
+nav{
+  display: block;
+  padding: 0px;
+  position: sticky; /*lorsque l'on va scroll vers le bas notre nav restera en haut de l'écran */
+  top: 0; /* !!!! important sinon le stocky n'aura aucun effet */
+  z-index: 200;
+  background-color: white;
+  box-shadow: 1px 1px 8px rgba(0,0,0,0.2);
+}
+
+nav ul{ padding: 0px; margin: 0px;}
+
+nav ul li{
+  display: inline-flex;
+  padding: 15px;
+  margin: 0px;
+}
+
+nav ul li:hover{
+  background-color: black;
+  color: white;
+}
+
+
+
+nav a, nav a:hover, nav a:visited{
+  text-decoration: none;
+  color: inherit;
+}
+
+
+article {
+  display: inline-block;
+  vertical-align: top;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+}
+
+/* Clear floats after the columns */
+section:after {
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #000000;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  min-height: 200px;
+}
+
+.main{
+  max-width: 1200px;
+  margin: auto;
+  background-color: white;
+}
+
+
+.box-red, .box-green{
+  width: 80px;
+  height: 80px;
+  font-size: 20px;
+  border-radius: 8px;
+}
+
+.box-red{
+  top: 20px;
+  right: 20px;
+  background-color: red;
+  position: absolute;
+}
+
+.box-green{
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background-color: green;
+}
+
+.floating-r{
+  display: inline-block;
+  vertical-align: top;
+  float: right;
+}
+
+.bandeau{
+  margin-top: 50px;
+}
+
+.bandeau img{
+  width: 100%;
+}
+
+.bandeau img:hover{
+   transform: scale(1.1);
+}
+
+.card{
+  display: inline-block;
+  vertical-align: top;
+  height: 300px;
+  width: 250px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: grey;
+  overflow: hidden;
+  box-shadow: 1px 1px 10px rgba(0,0,0,0.2);
+}
+
+.card .thumb{
+  height: 150px;
+  overflow: hidden;
+}
+
+.card .thumb img{
+  width: 100%;
+}
+
+.card p{
+  height: 150px;
+  overflow: hidden;
+  background-color: white;
+  padding: 8px;
+  margin: 0px;
+  color: grey;
+}
+
+.large-thumb{
+  width: 90%;
+  margin: 5%;
+  background-color: black;
+  color: white;
+}
+
+.large-thumb .thumb{
+  height: 300px;
+  overflow: hidden;
+}
+
+.large-thumb .thumb img{
+  width: 100%;
+}
+
+.large-thumb  p{
+  position: relative;
+  top: -100px;
+  width: 80%;
+  margin: auto;
+  background-color: white;
+  color: grey;
+  padding: 3%;
+}
