@@ -35,10 +35,10 @@
 
 
 @media screen and (max-width: 400px){
-  .card p, .card img{
+  .box p, .box img{
     display: block;
   }
-  .card{
+  .box{
     width: 40%;
   }
 }
